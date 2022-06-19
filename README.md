@@ -11,8 +11,13 @@ In case of predicting all classes, the problem is a multiclass classification pr
 
 In selecting a performance measurement;
 I employed different performance matrices:
+
 **Classification Accuracy 
+
 **Confusion Matrix 
+
 **Precision and Recall TradeOff
+
 **F1 Score 
+
 I am  curious to see how the MNIST dataset will perform on such a model.  
